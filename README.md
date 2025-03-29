@@ -1,4 +1,4 @@
-# PMC-NetSim
+ZaiPaul PMC-NetSim
 A Network Simulation building tool, in python.  (Open source, free to use, for non-comercial use.)
 Just download the full code and run it.  Add your own functions, easily, to interact with the data.
 .
